@@ -1,4 +1,4 @@
-package hello
+package goexamples
 
 import (
 	//"rsc.io/quote"

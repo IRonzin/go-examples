@@ -1,4 +1,4 @@
-module examle.com/hello
+module github.com/IRonzin/go-examples
 
 go 1.20
 
